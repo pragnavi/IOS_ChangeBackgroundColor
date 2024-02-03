@@ -58,6 +58,8 @@ This idea builds upon the existing Google Maps platform by adding safety-specifi
 
 Describe any challenges encountered while building the app.
 
+I'm new to Xcode and Swift, so one of the initial challenges I encountered was getting familiarized with the Xcode interface and understanding the basics of Swift programming. At first, it was a bit overwhelming to navigate the various features and tools within Xcode. However, with some time and practice, I gradually became more comfortable with the environment and began to understand the fundamentals of Swift. Once I was familiar with these aspects, I found it much easier to work on the app and make progress in building its features.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
