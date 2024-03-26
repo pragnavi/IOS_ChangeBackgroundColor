@@ -1,3 +1,5 @@
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
 # iOS Background Color Changer
 
 ## Overview
